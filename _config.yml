@@ -12,7 +12,7 @@ title                    : "Matthias Walle, Dr. sc."
 title_separator          : "-"
 name                     : &name "Matthias Walle"
 description              : &description "Transforming Bone Research through High Resolution Imaging and Computational Biomechanics"
-url                      : https://github.com/wallematthias # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://github.com/wallematthias" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/about-me" # the subpath of your site, e.g. "/blog"
 repository               : "wallematthias/about-me"
 
