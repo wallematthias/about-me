@@ -21,7 +21,7 @@ repository               : "wallematthias/about-me"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Walle, Matthias (3).jpg"
   name             : "Contact"
   pronouns         : "he/him"  
   bio              : "I am a dedicated Mechanical Engineer specializing in Computational Biomechanics. I hold B.Sc. and M.Sc. degrees in Mechanical Engineering from the Technical University of Munich and recently defended my Ph.D. at the Laboratory for Bone Biomechanics at ETH Zurich. Currently, I am a postdoctoral fellow at the McCaig Institute for Bone and Joint Health, where I continue to explore innovative approaches in bone imaging and computational methods for clinical applications. My passion lies in merging academic excellence with practical expertise to drive advancements in healthcare and technology."
