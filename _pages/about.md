@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 
+<br>
+<br>
 
 About me
 ======
 I hold a B.Sc. and M.Sc. in Mechanical Engineering from the Technical University of Munich, where I specialized in computational biomechanics. In 2023, I completed my Ph.D. at ETH Zürich, focusing my research on developing CT-based imaging and computational methods to investigate bone health. My goal is to understand how mechanical stimuli contribute to bone health and to identify potential biomarkers that can monitor adverse changes in bone structure and strength caused by conditions like diabetes.
-
-
+<br>
+<br>
 
 My Current Role
 ======
