@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Lay summaries
+## Research Highlights
 
 {% include base_path %}
 
