@@ -1,11 +1,12 @@
 ---
 title: 'Visualize Interactively AIM Images Using the k3d Library'
 date: 2024-02-22
-permalink: /posts/2014/08/blog-post-3/
+permalink: /posts/2024/02/visualising-aims/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - python 
+  - visualise 3D
+  - aim files
+  - tutorial
 ---
 
 # Visualize Interactively AIM Images Using the k3d Library
