@@ -3,7 +3,7 @@ title: "Bone Mechanoregulation Allows Subject-Specific Load Estimation Based on 
 collection: publications
 permalink: /publication/2021-Walle-Frontiers/
 excerpt: 'Despite steadily improving treatments for bone diseases, prescribed therapies are not always successful in certain patients.'
-date: 2021
+date: 2021-06-25
 venue: 'Front. Bioeng. Biotechnol.'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fbioe.2021.677985/full'
 citation: 'Walle M, Marques FC, Ohs N, Blauth M, Müller R and Collins CJ (2021) Bone Mechanoregulation Allows Subject-Specific Load Estimation Based on Time-Lapsed Micro-CT and HR-pQCT in Vivo. Front. Bioeng. Biotechnol. 9:677985. doi: 10.3389/fbioe.2021.677985'
