@@ -30,7 +30,8 @@ Scientists have recently observed that diabetes may negatively impact our bone h
 There were, however, technological challenges that prevent the use of these techniques in clinical studies. Although these computations are fast on supercomputers, they were still too slow and cumbersome to run on computer systems available within the clinics. In FIDELIO, we worked with IBM to push bone imaging and computational methods for bone remodelling studies from bench (supercomputer) to the bedside (clinical computing) in the hospital environment. Ultimately, these precise diagnostic tools may be used to tailor medical treatment of diabetic patients to bone health individually.
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=BO_79y9X6dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![FIDELIO](/images/Thumbnail_video.png)](https://www.youtube.com/watch?v=BO_79y9X6dA "Bone Health in Diabetes")
+<br>
 
 # Microgravity and Space travel 
 
