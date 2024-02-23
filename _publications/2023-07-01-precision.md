@@ -3,7 +3,7 @@ title: "Precision of bone mechanoregulation assessment in humans using longitudi
 collection: publications
 permalink: /publication/2024-Walle-Bone-b
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2023-07-01
 venue: 'Bone'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S8756-3282(23)00113-8'
 citation: 'Walle M, Whittier DE, Schenk D, Atkins PR, Blauth M, Zysset P, Lippuner K, Müller R, Collins CJ. Precision of bone mechanoregulation assessment in humans using longitudinal high-resolution peripheral quantitative computed tomography in vivo. Bone. 2023 Jul 1;172:116780.'
