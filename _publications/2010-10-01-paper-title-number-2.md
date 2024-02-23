@@ -1,12 +1,15 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-Walle-CurrOstRep/
+excerpt: 'Diabetes leads to higher blood sugar and changes in how the body can process sugar.'
+date: 2022
+venue: 'Current Osteoporosis Reports'
+paperurl: 'https://link.springer.com/article/10.1007/s11914-022-00755-6'
+citation: 'Whittier DE, Frost M, Müller R, Collins CJ. Meta-analysis of diabetes mellitus-associated differences in bone structure assessed by high-resolution peripheral quantitative computed tomography. Current Osteoporosis Reports. 2022 Dec;20(6):398-409.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Diabetes leads to higher blood sugar and changes in how the body can process sugar. There are two main types: type 1 and type 2. Diabetes is linked to bone issues like weaker structure and more fractures. A scanning technique called HR-pQCT allows detailed 3D imaging of bone to see these structural changes. Many studies have used HR-pQCT on diabetic patients to analyze bone density and architecture - characteristics of the sponge-like trabecular bone inside bones versus the dense outer cortical bone. But study findings can vary due to different scanning sites and patient groups. Therefore, this analysis combined data from sixteen HR-pQCT studies on patients with type 1 or type 2 diabetes. While type 1 diabetes had more impact on trabecular bone, type 2 primarily affected cortical bone. Effects were more severe in the radius bone than the weight-bearing tibia. This suggests physical loading may help compensate for some diabetes-linked bone changes, supporting the concept that bone strength adapts to mechanical forces. This analysis showed type 1 and type 2 diabetes tend to damage different bone structures. This information can guide animal studies on brittle bones in diabetes. It also helps explain why current methods to predict fracture risk in diabetic patients are inconsistent.
+
+![Graphical Abstract]([https://www.frontiersin.org/files/Articles/677985/fbioe-09-677985-HTML/image_m/fbioe-09-677985-g001.jpg](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11914-022-00755-6/MediaObjects/11914_2022_755_Fig5_HTML.png?as=webp)https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11914-022-00755-6/MediaObjects/11914_2022_755_Fig5_HTML.png?as=webp)
+Graphical Abstract. 
