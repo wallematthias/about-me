@@ -40,4 +40,4 @@ There were, however, technological challenges that prevent the use of these tech
 <br>
 
 ## Microgravity and Space travel 
-
+In our research, we explore bone recovery after extended periods without weight bearing load, such as during spaceflight. During these disuse experiences, bone loss occurs at an accelerated rate compared to normal bone turnover. We aim to further scientific understanding of the bone recovery process once normal loading resumes. Does bone regeneration occur? And if so, when, where and how much? We also question whether there may be a limited duration of opportunity for rebuilding bone at sites impacted by the lack of loading.
