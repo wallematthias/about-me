@@ -17,10 +17,8 @@ I hold a B.Sc. and M.Sc. in Mechanical Engineering from the Technical University
 At the Bone Imaging Lab, my work explores how disease affects bone remodeling, as well as the effects of microgravity from space flight. I aim to leverage CT imaging and computer simulations to gain insight into the interplay between bone morphology, mechanical loading, and metabolic influences. My hope is that my research will uncover new ways to assess fracture risk and enable personalized approaches to improving skeletal health. I am excited to tackle these challenges at the intersection of biomechanics, computer modeling, and medical imaging.
 <br>
 
-
 My Research
 ======
-
 ## Bone Health in Diabetes
 
 In a healthy adult, the body’s skeleton fully regenerates — or remodels — itself about every three to five years to maintain its strength. At the microscopic level, this process is orchestrated by cells, called osteocytes, which can sense and respond to local mechanical forces. Osteocytes direct bone-forming cells to regions where mechanical stimulations are high, and bone resorbing cells to areas where the stimulus is low. Through this process, excess bone tissue is removed, and new tissue is added where needed to maintain a metabolic balance.
@@ -30,7 +28,11 @@ Scientists have recently observed that diabetes may negatively impact our bone h
 There were, however, technological challenges that prevent the use of these techniques in clinical studies. Although these computations are fast on supercomputers, they were still too slow and cumbersome to run on computer systems available within the clinics. In FIDELIO, we worked with IBM to push bone imaging and computational methods for bone remodelling studies from bench (supercomputer) to the bedside (clinical computing) in the hospital environment. Ultimately, these precise diagnostic tools may be used to tailor medical treatment of diabetic patients to bone health individually.
 <br>
 
-[![FIDELIO](http://img.youtube.com/vi/BO_79y9X6dA/0.jpg)](http://www.youtube.com/watch?v=BO_79y9X6dA "Bone Health in Diabetes")
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=BO_79y9X6dA" title="Bone Health in Diabetes">
+    <img src="http://img.youtube.com/vi/BO_79y9X6dA/0.jpg" alt="FIDELIO">
+  </a>
+</p>
 
 <br>
 
