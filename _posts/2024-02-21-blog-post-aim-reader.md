@@ -18,7 +18,8 @@ tags:
 
 ## Introduction
 
-This tutorial is part of a series designed to help you get started with the `vtkbone` library, enabling the reading, manipulation, and writing of `.AIM` files outside the Scanco system. In this part, we focus on the basics of reading an AIM file and converting it to a VTK or SimpleITK image object.
+This tutorial is part of a series designed to help you get started with the `vtkbone` library, enabling the reading, manipulation, and writing of `.AIM` files outside the Scanco system. In this part, we focus on the basics of reading an AIM file and converting it to a VTK or SimpleITK image object. The full tutorial series can be found here: [Scanco IO Module Tutorials](https://github.com/OpenMSKImaging/vtkbone/tree/master/Tutorials). Please see this link for further information on how to install `vtkbone`
+
 
 ## Prerequisites
 
