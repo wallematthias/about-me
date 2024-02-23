@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 2'
+title: 'Reading in AIM files with vtkbone'
 date: 2024-02-21
 permalink: /posts/2013/08/blog-post-2/
 tags:
