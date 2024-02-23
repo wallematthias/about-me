@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Meta-analysis of diabetes mellitus-associated differences in bone structure assessed by high-resolution peripheral quantitative computed tomography."
 collection: publications
 permalink: /publication/2022-Walle-CurrOstRep/
 excerpt: 'Diabetes leads to higher blood sugar and changes in how the body can process sugar.'
