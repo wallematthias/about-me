@@ -1,7 +1,7 @@
 ---
 title: 'Reading in AIM files with vtkbone'
 date: 2024-02-21
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2024/02/reading-aims/
 tags:
   - scancoIO
   - aim files
