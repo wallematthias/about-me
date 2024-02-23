@@ -3,7 +3,7 @@ title: "Motion grading of high-resolution quantitative computed tomography suppo
 collection: publications
 permalink: /publication/2023-Walle-Bone-a
 excerpt: 'When patients move during a specific type of bone scan called high-resolution peripheral quantitative CT (HR-pQCT), it reduces the quality of the images.'
-date: 2023
+date: 01-01-2023
 venue: 'Bone'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S8756328222002848'
 citation: 'Walle M, Eggemann D, Atkins PR, Kendall JJ, Stock K, Müller R, Collins CJ. Motion grading of high-resolution quantitative computed tomography supported by deep convolutional neural networks. Bone. 2023 Jan 1;166:116607.'
