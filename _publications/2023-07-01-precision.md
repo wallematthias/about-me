@@ -5,7 +5,7 @@ permalink: /publication/2024-Walle-Bone-b
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'Bone'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://linkinghub.elsevier.com/retrieve/pii/S8756-3282(23)00113-8)'
+paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S8756-3282(23)00113-8'
 citation: 'Walle M, Whittier DE, Schenk D, Atkins PR, Blauth M, Zysset P, Lippuner K, Müller R, Collins CJ. Precision of bone mechanoregulation assessment in humans using longitudinal high-resolution peripheral quantitative computed tomography in vivo. Bone. 2023 Jul 1;172:116780.'
 ---
 
@@ -13,4 +13,3 @@ Local mechanical forces in bone play an important role in bone health and adapta
 
 
 ![Graphical Abstract](https://ars.els-cdn.com/content/image/1-s2.0-S8756328223001138-gr1_lrg.jpg)
-Graphical Abstract. 
