@@ -1,9 +1,9 @@
 ---
 title: "Meta-analysis of diabetes mellitus-associated differences in bone structure assessed by high-resolution peripheral quantitative computed tomography."
 collection: publications
-permalink: /publication/2022-Walle-CurrOstRep/
+permalink: /publication/2022-03-10-Walle-CurrOstRep/
 excerpt: 'Diabetes leads to higher blood sugar and changes in how the body can process sugar.'
-date: 2022
+date: 2022-03-10
 venue: 'Current Osteoporosis Reports'
 paperurl: 'https://link.springer.com/article/10.1007/s11914-022-00755-6'
 citation: 'Whittier DE, Frost M, Müller R, Collins CJ. Meta-analysis of diabetes mellitus-associated differences in bone structure assessed by high-resolution peripheral quantitative computed tomography. Current Osteoporosis Reports. 2022 Dec;20(6):398-409.'
