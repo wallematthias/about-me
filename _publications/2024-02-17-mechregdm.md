@@ -1,7 +1,7 @@
 ---
 title: "Bone remodelling and responsiveness to mechanical stimuli in individuals with type 1 diabetes mellitus."
 collection: publications
-permalink: /publication/2024-Walle-Bone-b
+permalink: /publication/2024-Walle-JBMR
 excerpt: "Recent studies indicate that type 1 diabetes mellitus impairs bone remodeling by reducing the skeleton's responsiveness to mechanical stimuli, leading to significantly lower bone formation and resorption rates compared to healthy controls."
 date: 2024-02-17
 venue: "Journal of Bone and Mineral Research"
