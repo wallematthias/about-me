@@ -2,9 +2,9 @@
 title: "Imaging and Computing in Medicine"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2020-spring-teaching-icm
+permalink: /teaching/2021-spring-teaching-icm
 venue: "ETH Zurich"
-date: 2020-02-19
+date: 2021-02-19
 location: "Zurich, Switzerland"
 ---
 
