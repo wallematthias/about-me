@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "MDSC 689.11 - Modelling and Simulations"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2024-guest-lecture-mdsc689.11
+venue: "University of Calgary"
+date: 2024-03-25
+location: "Calgary, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Supplementary course material for lecture MDSC 689.11 on Simulations
 
-Heading 1
+Powerpoint Slides
 ======
 
-Heading 2
+[Powerpoint slides Link](link.de)
+
+Code Examples (Jupyter Notebook, valid until 30.04.2024)
 ======
 
-Heading 3
-======
+[Google Colab Link](https://colab.research.google.com/drive/1CXJtL_sqo5YhN5sq7YuYTl37yuFXbxuv?usp=sharing)
