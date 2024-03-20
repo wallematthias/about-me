@@ -2,9 +2,9 @@
 title: "MDSC 689.11 - Modelling and Simulations"
 collection: teaching
 type: "Guest Lecture"
-permalink: /teaching/2024-spring-teaching-1
+permalink: /teaching/2024-spring-teaching-2
 venue: "University of Calgary, Radiology"
-date: 2024-03-25
+date: 2024-03-26
 location: "Calgary, Canada"
 ---
 
