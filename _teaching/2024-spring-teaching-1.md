@@ -2,7 +2,7 @@
 title: "MDSC 689.11 - Modelling and Simulations"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-guest-lecture-mdsc68911-1
+permalink: /teaching/2024-spring-teaching-1
 venue: "University of Calgary"
 date: 2024-03-25
 location: "Calgary, Canada"
