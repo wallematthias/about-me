@@ -8,6 +8,8 @@ date: 2021-02-19
 location: "Zurich, Switzerland"
 ---
 
+All course material for lecture, flipped classroom and exercise session can also be found in the [Moodle Course](https://moodle-app2.let.ethz.ch/course/view.php?id=18769)
+
 
 Course Material
 ======
@@ -24,5 +26,4 @@ Course Material
 
 <input type="submit" value="Sign in" />
 
-All course material for lecture, flipped classroom and exercise session can also be found in the [Moodle Course](https://moodle-app2.let.ethz.ch/course/view.php?id=18769)
 
