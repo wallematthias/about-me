@@ -12,6 +12,9 @@ location: "Zurich, Switzerland"
 Course Material
 ======
 
+All course material for lecture, flipped classroom and exercise session can also be found in the [Moodle Course](https://moodle-app2.let.ethz.ch/course/view.php?id=18769)
+
+
 <div>
   <label for="username">Username:</label>
   <input type="text" id="username" name="username" />
