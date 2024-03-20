@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "University of Calgary"
-date: 2024-03-25
+date: 2024-03-19
 location: "Calgary, Canada"
 ---
 
