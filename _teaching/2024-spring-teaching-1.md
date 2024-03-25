@@ -13,7 +13,7 @@ Supplementary course material for lecture MDSC 689.11 on Simulations
 Powerpoint Slides
 ======
 
-[Powerpoint slides Link](link.de)
+[Powerpoint slides Link](https://github.com/DrWalleTeaching/Modelling-and-Simulation/blob/main/240325_Simulations.pdf)
 
 Code Examples (Jupyter Notebook, valid until 30.04.2024)
 ======
